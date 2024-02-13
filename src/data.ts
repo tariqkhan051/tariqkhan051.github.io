@@ -1,59 +1,48 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "BlazeKitHub: Streamlined On-Premises Development",
+    subtitle: "Blazor, Node.js, C#, JavaScript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "Your All-in-One Solution for Collaborative On-Premises Development",
+    image: "./projects/project-1.gif",
+    link: "#",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Hospital Management System",
+    subtitle: "Windows App, C#, SQL, Azure",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "Your Comprehensive Solution for Efficient Hospital Operations",
+    image: "./projects/project-2.gif",
+    link: "#",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Username Finder",
+    subtitle: "Python",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "In progress",
+    image: "./projects/project-3.gif",
+    link: "#",
   },
 ];
 
 export const testimonials = [
   {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+    quote:"",
     image: "testimonials/tmp1.png",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+    name: "",
+    company: "",
   },
   {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+    quote:"",
     image: "testimonials/tmp2.png",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+    name: "",
+    company: "",
   },
   {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+    quote: "",
     image: "testimonials/tmp3.png",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+    name: "",
+    company: "",
   },
 ];
 
